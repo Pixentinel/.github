@@ -5,5 +5,5 @@
 #### 📦 [SaaS](https://github.com/Pixentinel/saas)
 #### 🧠 [Processor](https://github.com/Pixentinel/processor)
 #### 🔧 [Utils](https://github.com/Pixentinel/utils)
-#### 👀 [Watchdog](https://github.com/Pixentinel/utils)
-#### 🚀 [DB Migrations](https://github.com/Pixentinel/utils)
+#### 👀 [Watchdog](https://github.com/Pixentinel/watchdog)
+#### 🚀 [DB Migrations](https://github.com/Pixentinel/db-migrations)
