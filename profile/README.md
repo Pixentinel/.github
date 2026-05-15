@@ -8,4 +8,4 @@
 #### 👀 [Watchdog](https://github.com/Pixentinel/watchdog)
 #### 🚀 [DB Migrations](https://github.com/Pixentinel/db-migrations)
 #### 🚽 [Services](https://github.com/Pixentinel/services)
-#### 🔌 [WebSocker](https://github.com/Pixentinel/wss)
+#### 🔌 [WebSocket](https://github.com/Pixentinel/wss)
