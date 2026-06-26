@@ -9,3 +9,4 @@
 #### 🚀 [DB Migrations](https://github.com/Pixentinel/db-migrations)
 #### 🚽 [Services](https://github.com/Pixentinel/services)
 #### 🔌 [WebSocket](https://github.com/Pixentinel/wss)
+#### 🤵 [Orchestrator](https://github.com/Pixentinel/spot-orchestrator)
